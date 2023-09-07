@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Fazle Rabbi Ferdaus.
 #### Odoo Dev | Ptyhon Dev | Brain Station 23 | Associate software engineer. 
 I also love to solve coding problems and share them with others via my youtube channel [Watch a NOOB](https://www.youtube.com/channel/UCWToujZFgmCJHMJhxGITVTw) . 
-
-- 🌱 I’m currently learning Web Development 
 - 📫 How to reach me: **fazle.ferdaus1416@gmail.com**  and **fferdaus172120@bscse.uiu.ac.bd**
 
 <h3 align="center">Connect with me:</h3>
@@ -24,11 +22,8 @@ I also love to solve coding problems and share them with others via my youtube c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazleRabbbiferdaus172&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FazleRabbbiferdaus172&show_icons=true&theme=dracula)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FazleRabbbiferdaus172&theme=dracula)  
+ 
 ![GitHub metrics](https://metrics.lecoq.io/FazleRabbbiferdaus172)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FazleRabbbiferdaus172&theme=dracula)  
 
-![Profile views](https://gpvc.arturio.dev/FazleRabbbiferdaus172)  
-</div>

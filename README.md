@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Fazle Rabbi Ferdaus.
-#### Odoo Dev | Ptyhon Dev | Brain Station 23 | Associate software engineer. 
+#### Odoo Dev | Ptyhon Dev | Brain Station 23 | Software engineer. 
 I also love to solve coding problems and share them with others via my youtube channel [Watch a NOOB](https://www.youtube.com/channel/UCWToujZFgmCJHMJhxGITVTw) . 
 - 📫 How to reach me: **fazle.ferdaus1416@gmail.com**  and **fferdaus172120@bscse.uiu.ac.bd**
 

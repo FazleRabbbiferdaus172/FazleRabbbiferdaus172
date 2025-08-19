@@ -22,8 +22,6 @@ I also love to solve coding problems and share them with others via my youtube c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazleRabbbiferdaus172&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FazleRabbbiferdaus172&show_icons=true&theme=dracula)  
- 
-![GitHub metrics](https://metrics.lecoq.io/FazleRabbbiferdaus172)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FazleRabbbiferdaus172&theme=dracula)  
 

@@ -21,8 +21,6 @@ I also love to solve coding problems and share them with others via my youtube c
 
 <div align="center">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FazleRabbbiferdaus172)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=FazleRabbbiferdaus172&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FazleRabbbiferdaus172&show_icons=true&theme=dracula)  

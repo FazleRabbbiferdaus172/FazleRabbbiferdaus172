@@ -5,12 +5,18 @@ I also love to solve coding problems and share them with others via my youtube c
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/fazle rabbi ferdaus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fazle rabbi ferdaus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/watch a noob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="watch a noob" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fr_ferdaus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fr_ferdaus" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fazle_rabbi_ferdaus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="fazle_rabbi_ferdaus" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fazlerabbiferdaus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="fazlerabbiferdaus" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/fazlerabbiferdaus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="fazlerabbiferdaus" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fazle rabbi ferdaus" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./square-linkedin-dark.svg">
+      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./square-linkedin-light.svg" height="30" width="40">
+    </picture>
+</a>
+<a href="https://www.youtube.com/c/watch a noob" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./youtube-dark.svg">
+      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./youtube-light.svg" height="30" width="40">
+    </picture>
+</a>
 </p>
 
 <div align="center">

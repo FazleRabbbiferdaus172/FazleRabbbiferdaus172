@@ -5,7 +5,7 @@ I also love to solve coding problems and share them with others via my youtube c
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/fazle-rabbi-ferdaus" target="blank">
+<a href="https://www.linkedin.com/in/fazle-rabbi-ferdaus" target="blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./square-linkedin-dark.svg">
       <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./square-linkedin-light.svg" height="30" width="40">

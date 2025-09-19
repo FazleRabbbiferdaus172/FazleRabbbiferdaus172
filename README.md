@@ -5,13 +5,13 @@ I also love to solve coding problems and share them with others via my youtube c
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/fazle rabbi ferdaus" target="blank">
+<a href="www.linkedin.com/in/fazle-rabbi-ferdaus">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./square-linkedin-dark.svg">
       <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./square-linkedin-light.svg" height="30" width="40">
     </picture>
 </a>
-<a href="https://www.youtube.com/c/watch a noob" target="blank">
+<a href="https://www.youtube.com/@watchanoob1446">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./youtube-dark.svg">
       <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./youtube-light.svg" height="30" width="40">

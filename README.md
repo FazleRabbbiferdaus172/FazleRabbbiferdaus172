@@ -21,5 +21,5 @@ I also love to solve coding problems and share them with others via my youtube c
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FazleRabbbiferdaus172&show_icons=true&theme=dracula)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FazleRabbbiferdaus172&theme=dracula)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FazleRabbbiferdaus172&theme=darcula)](https://git.io/streak-stats)
 

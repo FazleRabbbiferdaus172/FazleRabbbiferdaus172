@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Fazle Rabbi Ferdaus.
-#### Software engineer | Ptyhon Dev | Odoo Dev . 
-I also love to solve coding problems and share them with others via my youtube channel [Watch a NOOB](https://www.youtube.com/channel/UCWToujZFgmCJHMJhxGITVTw) . 
+#### Software engineer | Ptyhon Dev | Odoo Dev .  
 - 📫 How to reach me: **fazle.ferdaus1416@gmail.com**.
 
 <h3 align="center">Connect with me:</h3>

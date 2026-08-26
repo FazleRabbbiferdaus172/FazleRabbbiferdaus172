@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Fazle Rabbi Ferdaus.
-#### Software engineer | Ptyhon Dev | Odoo Dev .  
+#### Software engineer  
 - 📫 How to reach me: **fazle.ferdaus1416@gmail.com**.
 
 <h3 align="center">Connect with me:</h3>
